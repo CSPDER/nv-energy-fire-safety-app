@@ -1,0 +1,11 @@
+
+---
+
+## 🛠️ Setup Instructions
+
+### Backend (Node.js)
+
+```bash
+cd nv-energy-fire-safety-app
+npm install express cors axios
+node api/server.js
